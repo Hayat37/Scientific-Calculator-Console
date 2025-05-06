@@ -3,7 +3,6 @@
 
 using namespace std;
 
-
 void show_calculator()
 {
     cout<<"-----------------------------------------"<<endl;
