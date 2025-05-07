@@ -35,7 +35,7 @@ g++ calculator.cpp -o calculator
 
 ## 📌 Note
 
-- This project uses `windows.h` and `system("cls")` to clear the console (works only on Windows).
+- This project uses `windows.h` and `system("cls")` to clear the console 
 - For cross-platform support, replace `system("cls")` with an appropriate solution.
 
 ---
